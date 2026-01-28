@@ -4,7 +4,7 @@
       "id": "kaucjapl",
       "displayName": "KaucjaPL",
       "packageName": "pl.kaucja.mobileapp",
-      "latestVersionCode": 35,
+      "latestVersionCode": 36,
       "latestVersionName": "1.2.15",
       "apkUrl": "https://DzRc7X.short.gy/android9-prod",
       "sha256": "",
@@ -18,10 +18,11 @@
       "latestVersionName": "2.1.1",
       "apkUrl": "https://apk-dino-crispal.s3.eu-central-1.amazonaws.com/Tales_prod_2_1_1.apk",
       "sha256": "",
-      "visible":1
+      "visible":0
     }
   ]
 }
+
 
 
 
