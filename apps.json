@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "id": "kaucjapl",
+      "id": "KaucjaPL",
       "displayName": "KaucjaPL",
       "packageName": "pl.kaucja.mobileapp",
-      "latestVersionCode": 36,
+      "latestVersionCode": 33,
       "latestVersionName": "1.2.15",
-      "apkUrl": "https://DzRc7X.short.gy/android9-prod",
-      "sha256": "",
+      "apkUrlAndroid9": "https://DzRc7X.short.gy/android9-prod",
+      "apkUrlAndroid10Plus": "https://DzRc7X.short.gy/aCoKTr",
       "visible": 1
     },
     {
@@ -22,6 +22,7 @@
     }
   ]
 }
+
 
 
 
