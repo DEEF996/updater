@@ -6,8 +6,12 @@
       "packageName": "pl.kaucja.mobileapp",
       "latestVersionCode": 33,
       "latestVersionName": "1.2.15",
+
+      "apkUrl": "https://DzRc7X.short.gy/aCoKTr",
       "apkUrlAndroid9": "https://DzRc7X.short.gy/android9-prod",
       "apkUrlAndroid10Plus": "https://DzRc7X.short.gy/aCoKTr",
+
+      "sha256": "",
       "visible": 1
     },
     {
@@ -16,16 +20,10 @@
       "packageName": "co.crispal.app.tales",
       "latestVersionCode": 211,
       "latestVersionName": "2.1.1",
+
       "apkUrl": "https://apk-dino-crispal.s3.eu-central-1.amazonaws.com/Tales_prod_2_1_1.apk",
       "sha256": "",
-      "visible":0
+      "visible": 0
     }
   ]
 }
-
-
-
-
-
-
-
